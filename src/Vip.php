@@ -5,8 +5,8 @@ namespace vip;
  * @author vipul patel
  */
 class Vip {
-    public function print_name()
+    static function print_name()
     {
-        echo "vipulpatelasd";
+        echo "vipulpatel";
     }
 }
